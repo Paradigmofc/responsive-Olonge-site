@@ -7,6 +7,14 @@
         margin-top: -150px;
     }
 }
+@media screen and (max-width:768px) {
+    .direction {
+        flex-direction: column;
+    }
+    .work-text {
+        text-align: center;
+    }
+}
 @media screen and (max-width: 575px) {
     .hero__description {
         font-size: 40px;
