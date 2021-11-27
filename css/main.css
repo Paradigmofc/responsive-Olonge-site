@@ -53,3 +53,11 @@ img {
     background: #FA4A0C;
     border: #FA4A0C;
 }
+/* APPS */
+/* .apps__img {
+    width: 560px;
+    height: 700px;
+} */
+.apps__img-block {
+    margin-top: -230px;
+}
