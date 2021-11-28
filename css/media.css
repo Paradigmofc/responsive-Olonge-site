@@ -74,4 +74,29 @@
     .nav-link {
         font-size: 14px;
     }
+    .hero__description {
+        font-size: 36px;
+        line-height: 50px;
+    }
+    .work__title {
+        font-size: 35px;
+    }
+    .work__account-description {
+        font-size: 36px;
+    }
+    .variants__account-description {
+        font-size: 36px;
+    }
+    .checkout__account-description {
+        font-size: 36px;
+    }
+    .work__account-subtitle {
+        font-size: 18px;
+    }
+    .variants__account-subtitle {
+        font-size: 18px;
+    }
+    .checkout__account-subtitle {
+        font-size: 18px;
+    }
 }
