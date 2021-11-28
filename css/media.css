@@ -6,6 +6,9 @@
     .apps__img-block {
         margin-top: -150px;
     }
+    .footer__description {
+        text-align: center;
+    }
 }
 @media screen and (max-width:768px) {
     .direction {
@@ -33,6 +36,10 @@
         padding: 10px 40px;
         font-size: 20px;
     }
+    .faq__button {
+        padding: 10px 40px;
+        font-size: 20px;
+    }
 }
 @media screen and (max-width: 425px) {
     .navbar-brand {
@@ -51,6 +58,14 @@
         gap: 15px;
     }
     .hero__button {
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .faq__buttons {
+        flex-direction: column;
+        gap: 15px;
+    }
+    .faq__button {
         margin-right: 0;
         margin-left: 0;
     }

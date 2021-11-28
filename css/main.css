@@ -122,3 +122,37 @@ img {
 .faq {
     background: url('../img/Background-2.webp') center / cover no-repeat;
 }
+.faq__content {
+    padding: 145px 0;
+}
+.faq__title {
+    font-size: 40px;
+    font-weight: 700;
+}
+.faq__description {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 38px;
+    letter-spacing: 0.2px;
+}
+.faq__button {
+    padding: 16px 58px;
+    font-weight: 700;
+    box-shadow: 0px 10px 30px rgba(183, 50, 39, 0.2);
+    border-radius: 24px;
+    border: 1px solid white;
+    margin-right: 16px;
+}
+.faq__button:hover {
+    background: #FA4A0C;
+    border: #FA4A0C;
+}
+/* Footer */
+.footer__icon {
+    font-size: 32px;
+    color: #FA4A0C;
+}
+.footer__description {
+    font-size: 12px;
+    font-weight: 700;
+}
