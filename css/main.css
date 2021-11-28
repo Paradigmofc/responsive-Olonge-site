@@ -118,3 +118,7 @@ img {
 .chekout__account-subtitle {
     color: #737373;
 }
+/* Faq */
+.faq {
+    background: url('../img/Background-2.webp') center / cover no-repeat;
+}
