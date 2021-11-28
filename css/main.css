@@ -30,7 +30,7 @@ img {
 
 /* HERO */
 .hero {
-    background: url('../img/Background.jpg') center / cover no-repeat;
+    background: url('../img/Background.webp') center / cover no-repeat;
 }
 .hero__content {
     padding: 73px 0 145px 0;
