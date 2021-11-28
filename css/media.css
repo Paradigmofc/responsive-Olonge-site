@@ -14,6 +14,12 @@
     .work-text {
         text-align: center;
     }
+    .variants-text {
+        text-align: center;
+    }
+    .checkout-text {
+        text-align: center;
+    }
 }
 @media screen and (max-width: 575px) {
     .hero__description {

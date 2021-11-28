@@ -80,3 +80,41 @@ img {
 .work__account-subtitle {
     color: #737373;
 }
+/* Variants */
+.variants__title {
+    font-weight: 600;
+    font-family: 'Poppins';
+    font-size: 44px;
+    letter-spacing: 0.1px;
+    padding-top: 72px;
+}
+.variants__account-title {
+    color: #FA4A0C;
+    font-weight: 700;
+}
+.variants__account-description {
+    font-weight: 700;
+    font-size: 40px;
+}
+.variants__account-subtitle {
+    color: #737373;
+}
+/* Chekout */
+.chekout__title {
+    font-weight: 600;
+    font-family: 'Poppins';
+    font-size: 44px;
+    letter-spacing: 0.1px;
+    padding-top: 72px;
+}
+.chekout__account-title {
+    color: #FA4A0C;
+    font-weight: 700;
+}
+.chekout__account-description {
+    font-weight: 700;
+    font-size: 40px;
+}
+.chekout__account-subtitle {
+    color: #737373;
+}
